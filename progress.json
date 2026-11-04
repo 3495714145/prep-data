@@ -1,0 +1,54 @@
+{
+ "app": "yyy-prep-cloud",
+ "updated_at": "2026-11-04T12:18:06.236Z",
+ "ts": {
+  "course_cursor": "2026-11-04T12:18:06.235Z",
+  "cursor_history": "2026-11-04T12:18:06.235Z",
+  "skipped_units": "2026-11-04T12:18:06.235Z",
+  "block_overrides": "2026-11-04T12:18:06.235Z",
+  "day_log": "2026-11-04T12:18:06.235Z",
+  "custom_blocks": "2026-11-04T12:18:06.235Z",
+  "zk_subjects": "2026-11-04T12:18:06.235Z",
+  "ky_subjects": "2026-11-04T12:18:06.235Z",
+  "main_course": "2026-11-04T12:18:06.235Z",
+  "lesson_photos": "2026-11-04T12:18:06.235Z"
+ },
+ "keys": {
+  "course_cursor": {
+   "数二": 1
+  },
+  "cursor_history": {
+   "2026-11-03": {
+    "数二": 1
+   }
+  },
+  "skipped_units": {},
+  "block_overrides": {},
+  "day_log": {
+   "date": "2026-11-03",
+   "entries": [
+    {
+     "id": "u-数二-0",
+     "label": "数学（二） · 一元函数微分学（主线）",
+     "time": "约90 分钟",
+     "track": "kaoyan",
+     "custom": false,
+     "done_at": "",
+     "course": "数学（二）",
+     "_seq": 0
+    }
+   ]
+  },
+  "custom_blocks": {},
+  "zk_subjects": [],
+  "ky_subjects": [],
+  "main_course": [],
+  "lesson_photos": {
+   "u-数二-0": {
+    "date": "2026-11-03",
+    "url": "https://ntfy.sh/file/ukOZhzIcCJiA.jpg",
+    "ts": "2026/11/3 16:10:59"
+   }
+  }
+ }
+}
