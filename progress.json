@@ -1,17 +1,17 @@
 {
  "app": "yyy-prep-cloud",
- "updated_at": "2026-11-04T12:28:23.615Z",
+ "updated_at": "2026-11-04T12:30:05.526Z",
  "ts": {
-  "course_cursor": "2026-11-04T12:28:23.615Z",
-  "cursor_history": "2026-11-04T12:28:23.615Z",
-  "skipped_units": "2026-11-04T12:28:23.615Z",
-  "block_overrides": "2026-11-04T12:28:23.615Z",
-  "day_log": "2026-11-04T12:28:23.615Z",
-  "custom_blocks": "2026-11-04T12:28:23.615Z",
-  "zk_subjects": "2026-11-04T12:28:23.615Z",
-  "ky_subjects": "2026-11-04T12:28:23.615Z",
-  "main_course": "2026-11-04T12:28:23.615Z",
-  "lesson_photos": "2026-11-04T12:28:23.615Z"
+  "course_cursor": "2026-11-04T12:30:05.526Z",
+  "cursor_history": "2026-11-04T12:30:05.526Z",
+  "skipped_units": "2026-11-04T12:30:05.526Z",
+  "block_overrides": "2026-11-04T12:30:05.526Z",
+  "day_log": "2026-11-04T12:30:05.526Z",
+  "custom_blocks": "2026-11-04T12:30:05.526Z",
+  "zk_subjects": "2026-11-04T12:30:05.526Z",
+  "ky_subjects": "2026-11-04T12:30:05.526Z",
+  "main_course": "2026-11-04T12:30:05.526Z",
+  "lesson_photos": "2026-11-04T12:30:05.526Z"
  },
  "keys": {
   "course_cursor": {
