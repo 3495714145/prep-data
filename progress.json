@@ -1,17 +1,17 @@
 {
  "app": "yyy-prep-cloud",
- "updated_at": "2026-11-04T12:31:54.100Z",
+ "updated_at": "2026-11-04T12:32:33.010Z",
  "ts": {
-  "course_cursor": "2026-11-04T12:31:54.100Z",
-  "cursor_history": "2026-11-04T12:31:54.100Z",
-  "skipped_units": "2026-11-04T12:31:54.100Z",
-  "block_overrides": "2026-11-04T12:31:54.100Z",
-  "day_log": "2026-11-04T12:31:54.100Z",
-  "custom_blocks": "2026-11-04T12:31:54.100Z",
-  "zk_subjects": "2026-11-04T12:31:54.100Z",
-  "ky_subjects": "2026-11-04T12:31:54.100Z",
-  "main_course": "2026-11-04T12:31:54.100Z",
-  "lesson_photos": "2026-11-04T12:31:54.100Z"
+  "course_cursor": "2026-11-04T12:32:33.010Z",
+  "cursor_history": "2026-11-04T12:32:33.010Z",
+  "skipped_units": "2026-11-04T12:32:33.010Z",
+  "block_overrides": "2026-11-04T12:32:33.010Z",
+  "day_log": "2026-11-04T12:32:33.010Z",
+  "custom_blocks": "2026-11-04T12:32:33.010Z",
+  "zk_subjects": "2026-11-04T12:32:33.010Z",
+  "ky_subjects": "2026-11-04T12:32:33.010Z",
+  "main_course": "2026-11-04T12:32:33.010Z",
+  "lesson_photos": "2026-11-04T12:32:33.010Z"
  },
  "keys": {
   "course_cursor": {
@@ -25,19 +25,8 @@
   "skipped_units": {},
   "block_overrides": {},
   "day_log": {
-   "date": "2026-11-03",
-   "entries": [
-    {
-     "id": "u-数二-0",
-     "label": "数学（二） · 一元函数微分学（主线）",
-     "time": "约90 分钟",
-     "track": "kaoyan",
-     "custom": false,
-     "done_at": "",
-     "course": "数学（二）",
-     "_seq": 0
-    }
-   ]
+   "date": "2026-11-04",
+   "entries": []
   },
   "custom_blocks": {},
   "zk_subjects": [],
